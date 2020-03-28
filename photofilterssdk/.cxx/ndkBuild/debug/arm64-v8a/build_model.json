@@ -1,0 +1,59 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/home/rajat/AndroidStudioProjects/CameraFilters",
+      "sdkFolder": "/home/rajat/Android/Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/build/intermediates",
+      "gradleModulePathName": ":photofilterssdk",
+      "moduleRootFolder": "/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk",
+      "makeFile": "/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/src/main/jni/Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "/home/rajat/AndroidStudioProjects/CameraFilters/.cxx",
+      "cxxFolder": "/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/.cxx",
+      "ndkFolder": "/home/rajat/Android/Sdk/ndk/20.0.5594570",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/build/intermediates/ndkBuild/debug/lib",
+    "objFolder": "/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/build/intermediates/ndkBuild/debug/obj/local",
+    "jsonFolder": "/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/.cxx/ndkBuild/debug",
+    "gradleBuildOutputFolder": "/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARM64_V8A",
+      "ARMEABI_V7A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/.cxx/ndkBuild/debug/arm64-v8a",
+  "jsonFile": "/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/.cxx/ndkBuild/debug/arm64-v8a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/.cxx/cxx/debug/arm64-v8a",
+  "objFolder": "/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a",
+  "buildCommandFile": "/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/.cxx/ndkBuild/debug/arm64-v8a/build_command.txt",
+  "buildOutputFile": "/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/.cxx/ndkBuild/debug/arm64-v8a/build_output.txt",
+  "modelOutputFile": "/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/.cxx/ndkBuild/debug/arm64-v8a/build_model.json",
+  "jsonGenerationLoggingRecordFile": "/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/.cxx/ndkBuild/debug/arm64-v8a/json_generation_record.json",
+  "compileCommandsJsonFile": "/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/.cxx/ndkBuild/debug/arm64-v8a/compile_commands.json"
+}

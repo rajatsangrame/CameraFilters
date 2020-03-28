@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/src/main/jni/Android.mk",
+    "/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/src/main/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/home/rajat/Android/Sdk/ndk/20.0.5594570/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/src/main/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/build/intermediates/ndkBuild/debug/lib clean"
+  ],
+  "buildTargetsCommand": "/home/rajat/Android/Sdk/ndk/20.0.5594570/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/src/main/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/build/intermediates/ndkBuild/debug/lib {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "NativeImageProcessor-debug-armeabi-v7a": {
+      "artifactName": "NativeImageProcessor",
+      "buildCommand": "/home/rajat/Android/Sdk/ndk/20.0.5594570/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/src/main/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/build/intermediates/ndkBuild/debug/lib /home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libNativeImageProcessor.so",
+      "abi": "armeabi-v7a",
+      "output": "/home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libNativeImageProcessor.so"
+    }
+  }
+}

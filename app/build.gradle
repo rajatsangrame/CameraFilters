@@ -40,6 +40,6 @@ dependencies {
     // If you want to use the CameraX Lifecycle library
     implementation "androidx.camera:camera-lifecycle:${camerax_version}"
 
-    implementation 'info.androidhive:imagefilters:1.0.7'
+    implementation project(path: ':photofilterssdk')
 
 }

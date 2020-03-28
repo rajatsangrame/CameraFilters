@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':photofilterssdk'
 rootProject.name='CameraFilters'

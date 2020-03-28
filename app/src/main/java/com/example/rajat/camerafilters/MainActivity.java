@@ -29,8 +29,8 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 import com.google.common.util.concurrent.ListenableFuture;
-import com.zomato.photofilters.FilterPack;
 import com.zomato.photofilters.imageprocessors.Filter;
+import com.zomato.photofilters.FilterPack;
 
 import java.io.File;
 import java.util.concurrent.ExecutionException;

@@ -1,0 +1,3 @@
+Android NDK: WARNING: Unsupported source file extensions in /home/rajat/AndroidStudioProjects/CameraFilters/photofilterssdk/src/main/jni/Android.mk for module NativeImageProcessor    
+Android NDK:   Android.mk Application.mk    
+make: Nothing to be done for `NativeImageProcessor'.
